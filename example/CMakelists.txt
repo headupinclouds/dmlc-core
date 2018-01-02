@@ -1,0 +1,6 @@
+add_executable(parameter parameter.cc)
+target_link_libraries(parameter PUBLIC dmlc)
+install(TARGETS parameter DESTINATION bin)
+
+
+

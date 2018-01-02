@@ -42,3 +42,7 @@ config.mk
 deps
 recommonmark
 build
+
+_logs
+_install
+_builds
